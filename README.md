@@ -22,7 +22,7 @@ University of Alberta - <i>Full Stack Web Developer</i><br>
 
 <p align="center">
 <a href="https://skillicons.dev">
-<img width="50%" src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,cs,java,unity,mysql&theme=dark&" />
+<img width="50%" src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,cs,dotnet,java,unity,mysql&theme=dark&" />
 </a>
 </p>
 
