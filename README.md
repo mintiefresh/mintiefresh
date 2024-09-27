@@ -18,12 +18,20 @@ University of Alberta - <i>Full Stack Web Developer</i><br>
 <hr>
 
 <h3 align="center">
-:hammer: Languages/Tools used on GitHub
+🌐 Languages
 </h3>
-
 <p align="center">
 <a href="https://skillicons.dev">
 <img width="50%" src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,cs,dotnet,java,python,unity,mysql&theme=dark&" />
+</a>
+</p>
+
+<h3 align="center">
+🔧 Tools
+</h3>
+<p align="center">
+<a href="https://skillicons.dev">
+<img width="50%" src="https://skillicons.dev/icons?i=github,git,obsidian,vscode,visualstudio,docker,postman,netlify,&theme=dark&" />
 </a>
 </p>
 
