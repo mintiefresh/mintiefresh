@@ -4,7 +4,7 @@
 </h1>
 
 <p align="center"><b>I'm Minh and this is my playground.</b></p>
-<p align="center"><img src="https://github.com/mintiefresh/mintiefresh/blob/main/dino.gif"></p>
+
 
 <h3 align="center">
     
@@ -34,6 +34,8 @@ University of Alberta - <i>Full Stack Web Developer</i><br>
 <img width="50%" src="https://skillicons.dev/icons?i=github,git,obsidian,vscode,visualstudio,docker,postman,netlify,&theme=dark&" />
 </a>
 </p>
+
+<p align="center"><img src="https://github.com/mintiefresh/mintiefresh/blob/main/dino.gif"></p>
 
 <!---
 mintiefresh/mintiefresh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
