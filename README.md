@@ -1,34 +1,35 @@
-<h1 align="center">
+<!---
+mintiefresh/mintiefresh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
 
-:wave: Hello World!
-</h1>
-
-<p align="center"><b>I'm Minh and this is my playground.</b></p>
-
-
-<h3 align="center">
-    
-:seedling: History
-</h3>
+# :wave: Hello World!
+I'm Minh and this is my playground.
 
 <p align="center">
-University of Alberta - <i>Full Stack Web Developer</i><br>
+  <a href="mailto://minhtuan@ualberta.ca">
+    <img src="https://skillicons.dev/icons?i=gmail&theme=dark" />
+  </a>
+  <a href="https://github.com/mintiefresh">
+    <img src="https://skillicons.dev/icons?i=github&theme=dark" />
+  </a>
 </p>
 
-<hr>
+## :seedling: History
+University of Alberta - <i>Full Stack Web Developer</i><br>
 
-<h3 align="center">
-🌐 Languages
-</h3>
+
+
+
+
+## 🌐 Languages
 <p align="center">
 <a href="https://skillicons.dev">
 <img width="50%" src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,cs,dotnet,java,python,unity,mysql&theme=dark&" />
 </a>
 </p>
 
-<h3 align="center">
-🔧 Tools
-</h3>
+## 🔧 Tools
 <p align="center">
 <a href="https://skillicons.dev">
 <img width="50%" src="https://skillicons.dev/icons?i=github,git,obsidian,vscode,visualstudio,docker,postman,netlify,&theme=dark&" />
@@ -37,7 +38,4 @@ University of Alberta - <i>Full Stack Web Developer</i><br>
 
 <p align="center"><img src="https://github.com/mintiefresh/mintiefresh/blob/main/dino.gif"></p>
 
-<!---
-mintiefresh/mintiefresh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
