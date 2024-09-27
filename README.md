@@ -4,6 +4,7 @@
 </h1>
 
 <p align="center"><b>I'm Minh and this is my playground.</b></p>
+<p align="center"><img src="https://user-images.githubusercontent.com/54319153/124483248-5099e400-ddd4-11eb-9da8-bdc24bef4c82.gif"></p>
 
 <h3 align="center">
     
