@@ -36,8 +36,8 @@ Here are some ideas to get you started:
 ```javascript
 const mintiefresh = {
   pronouns: "he" | "him",
-  code: ["JavaScript", "HTML", "CSS", "C#", "Python", "Java"],
-  frameworks: [".NET", "ASP.NET", "React", "Redux", "Next.js", "Node.js"],
+  code: [JavaScript, HTML, CSS, C#, Python, Java],
+  frameworks: [dotNET, React, Redux, NextJS, NodeJS],
   databases: ["MariaDB", "MySQL"],
   architecture: ["REST APIs", "MVC"],
   education: [
@@ -54,3 +54,4 @@ const mintiefresh = {
   ],
   hobbies: ["Building cool projects", "Learning new frameworks"]
 }
+```
