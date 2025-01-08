@@ -39,7 +39,6 @@ const mintiefresh = {
   code: [JavaScript, HTML, CSS, C#, Python, Java],
   frameworks: [dotNET, React, Redux, NextJS, NodeJS],
   databases: ["MariaDB", "MySQL"],
-  architecture: ["REST APIs", "MVC"],
   education: [
     {
       degree: "Civil Engineer",
