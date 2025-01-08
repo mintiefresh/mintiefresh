@@ -12,10 +12,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# :wave: Hello World!
-I'm Minh and this is my playground.
 
-<p align="center">
+
+
+
+# :wave: Hello World!
+<p>I'm Minh and this is my playground.</p>
+
+<p align="left">
   <a href="mailto://minhtuan@ualberta.ca">
     <img src="https://skillicons.dev/icons?i=gmail&theme=dark" />
   </a>
@@ -24,19 +28,25 @@ I'm Minh and this is my playground.
   </a>
 </p>
 
-## :seedling: History
-University of Alberta - <i>Full Stack Web Developer</i><br>
 
-## 🌐 Languages
-<p align="center">
-<a href="https://skillicons.dev">
-<img width="50%" src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,cs,dotnet,java,python,unity,mysql&theme=dark&" />
-</a>
-</p>
-
-## 🔧 Tools
-<p align="center">
-<a href="https://skillicons.dev">
-<img width="50%" src="https://skillicons.dev/icons?i=github,git,obsidian,vscode,visualstudio,docker,postman,netlify,&theme=dark&" />
-</a>
-</p>
+```javascript
+const mintiefresh = {
+  pronouns: "he" | "him",
+  code: ["JavaScript", "HTML", "CSS", "C#", "Python", "Java"],
+  frameworks: [".NET", "ASP.NET", "React", "Redux", "Next.js", "Node.js"],
+  databases: ["MariaDB", "MySQL"],
+  architecture: ["REST APIs", "MVC"],
+  education: [
+    {
+      degree: "Civil Engineer",
+      institution: "University of Alberta",
+      year: 2008
+    },
+    {
+      degree: "Full Stack Web Developer",
+      institution: "University of Alberta",
+      year: 2024
+    }
+  ],
+  hobbies: ["Building cool projects", "Learning new frameworks"]
+}
