@@ -23,9 +23,13 @@ Here are some ideas to get you started:
   <a href="mailto://minhtuan@ualberta.ca">
     <img src="https://skillicons.dev/icons?i=gmail&theme=dark" />
   </a>
-  <a href="https://github.com/mhoanggg">
+  <a href="https://www.linkedin.com/in/minh-hoang-40794749/?trk=public-profile-join-page">
+    <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" />
+  </a>
+  <a href="https://github.com/mintiefresh">
     <img src="https://skillicons.dev/icons?i=github&theme=dark" />
   </a>
+  
 </p>
 
 
