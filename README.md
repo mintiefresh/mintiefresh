@@ -46,7 +46,7 @@ const mintiefresh = {
       year: 2008
     },
     {
-      degree: "Full Stack Web Developer",
+      diploma: "Full Stack Web Developer",
       institution: "University of Alberta",
       year: 2024
     }
