@@ -36,8 +36,8 @@ Here are some ideas to get you started:
 ```javascript
 const mintiefresh = {
   pronouns: "he" | "him",
-  code: [JavaScript, HTML, CSS, C#, Python, Java],
-  frameworks: [dotNET, React, Redux, NextJS, NodeJS],
+  code: [HTML, CSS, JavaScript, C#, Python, Java],
+  frameworks: [dotNET, React, NextJS, NodeJS],
   databases: ["MariaDB", "MySQL"],
   education: [
     {
