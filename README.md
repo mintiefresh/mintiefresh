@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 const mintiefresh = {
   code: [HTML, CSS, JavaScript, C#, Python, Java],
   frameworks: [dotNET, React, NextJS, NodeJS],
-  databases: ["MariaDB", "MySQL"],
+  databases: ["MariaDB", "MySQL", "MongoDB"],
   education: [
     {
       degree: "Civil Engineer",
