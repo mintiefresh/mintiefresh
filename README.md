@@ -35,8 +35,8 @@ Here are some ideas to get you started:
 
 ```javascript
 const mintiefresh = {
-  code: [HTML, CSS, JavaScript, C#, Python, Java],
-  frameworks: [dotNET, React, NextJS, NodeJS],
+  code: [HTML, CSS, JavaScript, TypeScript, C#, Python, Java],
+  frameworks: [React, NextJS, NodeJS, dotNET],
   databases: ["MariaDB", "MySQL", "MongoDB"],
   education: [
     {
@@ -50,6 +50,6 @@ const mintiefresh = {
       year: 2024
     }
   ],
-  hobbies: ["Building cool projects", "Learning new frameworks"]
+  hobbies: ["Building cool projects"]
 }
 ```
