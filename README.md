@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 const mintiefresh = {
   code: [HTML, CSS, JavaScript, TypeScript, C#, Python, Java],
   frameworks: [React, NextJS, NodeJS, dotNET],
-  databases: ["MariaDB", "MySQL", "MongoDB"],
+  databases: ["MariaDB", "MySQL", "MongoDB", "PostGreSQL"],
   education: [
     {
       degree: "Civil Engineer",
@@ -50,6 +50,6 @@ const mintiefresh = {
       year: 2024
     }
   ],
-  hobbies: ["Building cool projects"]
+  hobbies: ["Open-source contributions", "Coding for fun"]
 }
 ```
