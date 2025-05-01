@@ -49,7 +49,6 @@ const mintiefresh = {
       institution: "University of Alberta",
       year: 2024
     }
-  ],
-  hobbies: ["Open-source contributions", "Coding for fun"]
+  ]
 }
 ```
