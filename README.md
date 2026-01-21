@@ -35,8 +35,8 @@ Here are some ideas to get you started:
 
 ```javascript
 const mintiefresh = {
-  code: [HTML, CSS, JavaScript, TypeScript, C#, Python, Java],
-  frameworks: [React, NextJS, NodeJS, dotNET],
+  code: ["HTML", "CSS', "JavaScript", "TypeScript", "C#', "Python", "Java'],
+  frameworks: ["React", "NextJS", "NodeJS", "dotNET"],
   databases: ["MariaDB", "MySQL", "MongoDB", "PostGreSQL"],
   education: [
     {
