@@ -16,9 +16,7 @@ Here are some ideas to get you started:
 
 
 
-# :wave: Hello World!
-<p>I'm Minh and this is my playground.</p>
-
+# 🌎 Hello World / Xin Chào
 ```javascript
 const mintiefresh = {
   code: ["HTML", "CSS", "JavaScript", "TypeScript", "C#", "Python", "Java"],
